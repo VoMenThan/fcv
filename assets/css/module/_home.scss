@@ -1,4 +1,13 @@
-*{
-  display: none;
-  font-family: $main;
+.home {
+  .background-top {
+    background: #929292;
+    height: 65px;
+  }
+  img{
+    margin-top: 55px;
+  }
+  h1{
+    color: #018ad2;
+    margin-top: 20px;
+  }
 }

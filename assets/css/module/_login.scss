@@ -37,11 +37,26 @@
 //==============================================================ctcs================
 
 .ctcs-background {
-  @include textGradient(#8d33d3, #7100c8);
-  padding-top: 40px;
-  padding-bottom: 300px;
-  color: #ffffff;
-}
+   @include textGradient(#8d33d3, #7100c8);
+   padding-top: 40px;
+   padding-bottom: 300px;
+   color: #ffffff;
+ }
+
+.dtcc-background {
+   @include textGradient(#34cba2, #01be8b);
+   padding-top: 40px;
+   padding-bottom: 300px;
+   color: #ffffff;
+ }
+.cssk-background {
+   @include textGradient(#32bee6, #00aee0);
+   padding-top: 40px;
+   padding-bottom: 300px;
+   color: #ffffff;
+ }
+
+
 .wrap-page {
   .name {
     padding-bottom: 85px;
@@ -73,7 +88,6 @@
     h3 {
       padding-top: 30px;
       font-size: 45px;
-      font-family: $main-b;
     }
   }
   .bg_white{
@@ -109,6 +123,11 @@
       span {
         color: #7e18cd;
       }
+
+    }
+    .gray{
+      color: #989898;
+      padding-top: 0px;
     }
     .box-img {
       padding-top: 140px;
@@ -127,12 +146,20 @@
         font-size: 39px;
         padding-top: 0;
       }
+      .stand {
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+      }
+      .gray {
+        color: #989898;
+        font-size: 31px;
+        line-height: 44px;
+      }
       .point {
         @include radius(83px);
         color: #fff;
         font-size: 75px;
         font-family: $main-b;
-        background: #7f19cd;
         width: 50%;
         margin: auto;
         padding-top: 27px;
@@ -141,6 +168,44 @@
       }
     }
 
+  }
+}
+.dtcc-background ul {
+  list-style: none inside;
+  li{
+    display: inline-block;
+    width: 49%;
+    img{
+      width: 22% !important;
+    }
+  }
+}
+.cssk-background ul {
+  list-style: none inside;
+  li{
+    display: inline-block;
+    width: 49%;
+    img{
+      width: 22% !important;
+    }
+  }
+}
+.ctcs-background{
+  .point{
+    background: #7f19cd;
+  }
+}
+.dtcc-background{
+  .point{
+    background: #34cba2;
+  }
+}
+.content {
+
+}
+.wrap-page{
+  .next-box{
+    margin-top: 30px;
   }
 }
 

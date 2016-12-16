@@ -1046,6 +1046,9 @@ a {
 .home h1 {
   color: #018ad2;
   margin-top: 20px; }
+.home .top-item h2 {
+  font-family: 'Pacifico';
+  color: #018ad2; }
 
 body {
   font-size: 24px;

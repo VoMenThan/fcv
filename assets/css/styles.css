@@ -1043,12 +1043,47 @@ a {
   height: 65px; }
 .home img {
   margin-top: 55px; }
-.home h1 {
+.home .home-title {
   color: #018ad2;
-  margin-top: 20px; }
+  padding-top: 50px; }
+.home h1 {
+  color: #fff;
+  font-size: 36px;
+  padding-top: 90px; }
 .home .top-item h2 {
   font-family: 'Pacifico';
+  color: #018ad2;
+  margin-bottom: 30px; }
+.home .top-item p {
+  font-size: 18px; }
+.home .top-item .text-primary {
   color: #018ad2; }
+.home .top-item .icon {
+  display: inline-block;
+  margin-left: 35px; }
+  .home .top-item .icon li {
+    float: left;
+    list-style-type: none;
+    text-align: center;
+    padding-right: 35px; }
+
+.item_section {
+  position: relative;
+  padding-top: 200px; }
+  .item_section .item_section_background {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 0; }
+  .item_section .icon-top {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 1; }
+  .item_section .content_section {
+    background: #4dc6e9; }
 
 body {
   font-size: 24px;

@@ -1,0 +1,159 @@
+.login{
+  .content-box{
+    background: url("../images/img/bg_screen.jpg");
+    .img{
+      width: 41%;
+    }
+    .name{
+      text-align: center;
+      font-size: 50px;
+
+    }
+    form{
+      input[type="text"]{
+        height:130px;
+        width: 82%;
+        font-size: 43px;
+        background: #ffffff;
+        border-radius: 15px;
+        border: none;
+
+      }
+      input{
+        margin-top: 30px;
+        padding-left: 50px;
+        text-align: center;
+
+      }
+    }
+  }
+  .foot-box{
+    background: #018ad2;
+  }
+
+
+}
+
+//==============================================================ctcs================
+
+.ctcs-background{
+  background: #8a2cd1;
+  padding-bottom: 100px;
+  color: #ffffff;
+  .name{
+    padding-top: 40px;
+    padding-bottom: 85px;
+    span{
+      font-size: 76px;
+      color: #fff;
+    }
+  }
+  .image{
+    text-align: center;
+    img{
+      width: 65%;
+      border: 2px solid #fff;
+      border-radius: 50% 50%;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+  }
+  .head{
+    padding-bottom: 90px;
+    p{
+      font-size: 39px;
+      padding-top: 100px;
+    }
+    img{
+      padding-top: 80px;
+      width: 11%;
+    }
+    h3{
+      padding-top: 40px;
+      font-size: 45px;
+      font-weight: bold;
+    }
+  }
+  .content{
+    display: block;
+    margin: auto;
+    width: 94.14%;
+    background: #ffffff;
+    border-radius: 30px;
+    .title{
+      height: 160px;
+      background: #380064;
+      border-radius: 30px 30px 0 0;
+      h2{
+        font-size: 51px;
+        margin: auto;
+
+      }
+    }
+    img{
+      width: 100%;
+
+    }
+    p{
+      padding-top: 85px;
+      padding-bottom: 10px;
+      color: #414141;
+      text-align: left;
+      padding-left: 5%;
+      padding-right: 5%;
+      font-size: 36px;
+      span{
+        color: #7100c8;
+      }
+    }
+    .box-img{
+      padding-top: 140px;
+      padding-bottom: 150px;
+      img{
+        width: 75%;
+      }
+    }
+    .btn{
+      min-height: 200px;
+      padding-bottom: 100px;
+      padding-top: 30px;
+      p{
+        color: #252525;
+        text-align: center;
+        font-size: 39px;
+      }
+      .point{
+        border-radius: 80px;
+        color: #fff;
+        font-size: 75px;
+        font-weight: bold;
+        width: 50%;
+        background: #380064;
+        margin: auto;
+        padding: 30px 50px;
+
+      }
+    }
+
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

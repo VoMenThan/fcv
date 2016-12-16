@@ -18,6 +18,14 @@ function Page(){
             $('body').addClass('touch-device');
         }
 
+        $('.icon li').click(function () {
+            var $this = $(this);
+            var idex = $this.index();
+            jQuery('html, body').animate({scrollTop: $('.list-section .item_section').eq(idex).offset().top +40}, 500);
+
+
+        })
+
         calch();
         $(window).resize(function () {
             calch();
@@ -37,4 +45,28 @@ function Page(){
 Page = new Page();
 $(document).ready(function() {
     Page.init();
+});
+
+
+
+function scrolltop()
+{
+    var id_button = '.footer-menu';
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery(id_button).fadeIn(duration);
+        } else {
+            jQuery(id_button).fadeOut(duration);
+        }
+    });
+    jQuery(id_button).click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    });
+}
+$(document).ready(function(){
+    scrolltop();
 });

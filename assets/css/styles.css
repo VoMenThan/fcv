@@ -1125,4 +1125,103 @@ strong {
 .itum {
   background: red; }
 
+.login .content-box {
+  background: url("../images/img/bg_screen.jpg"); }
+  .login .content-box .img {
+    width: 41%; }
+  .login .content-box .name {
+    text-align: center;
+    font-size: 50px; }
+  .login .content-box form input[type="text"] {
+    height: 130px;
+    width: 82%;
+    font-size: 43px;
+    background: #ffffff;
+    border-radius: 15px;
+    border: none; }
+  .login .content-box form input {
+    margin-top: 30px;
+    padding-left: 50px;
+    text-align: center; }
+.login .foot-box {
+  background: #018ad2; }
+
+.ctcs-background {
+  background: #8a2cd1;
+  padding-bottom: 100px;
+  color: #ffffff; }
+  .ctcs-background .name {
+    padding-top: 40px;
+    padding-bottom: 85px; }
+    .ctcs-background .name span {
+      font-size: 76px;
+      color: #fff; }
+  .ctcs-background .image {
+    text-align: center; }
+    .ctcs-background .image img {
+      width: 65%;
+      border: 2px solid #fff;
+      border-radius: 50% 50%;
+      padding: 20px;
+      box-sizing: border-box; }
+  .ctcs-background .head {
+    padding-bottom: 90px; }
+    .ctcs-background .head p {
+      font-size: 39px;
+      padding-top: 100px; }
+    .ctcs-background .head img {
+      padding-top: 80px;
+      width: 11%; }
+    .ctcs-background .head h3 {
+      padding-top: 40px;
+      font-size: 45px;
+      font-weight: bold; }
+  .ctcs-background .content {
+    display: block;
+    margin: auto;
+    width: 94.14%;
+    background: #ffffff;
+    border-radius: 30px; }
+    .ctcs-background .content .title {
+      height: 160px;
+      background: #380064;
+      border-radius: 30px 30px 0 0; }
+      .ctcs-background .content .title h2 {
+        font-size: 51px;
+        margin: auto; }
+    .ctcs-background .content img {
+      width: 100%; }
+    .ctcs-background .content p {
+      padding-top: 85px;
+      padding-bottom: 10px;
+      color: #414141;
+      text-align: left;
+      padding-left: 5%;
+      padding-right: 5%;
+      font-size: 36px; }
+      .ctcs-background .content p span {
+        color: #7100c8; }
+    .ctcs-background .content .box-img {
+      padding-top: 140px;
+      padding-bottom: 150px; }
+      .ctcs-background .content .box-img img {
+        width: 75%; }
+    .ctcs-background .content .btn {
+      min-height: 200px;
+      padding-bottom: 100px;
+      padding-top: 30px; }
+      .ctcs-background .content .btn p {
+        color: #252525;
+        text-align: center;
+        font-size: 39px; }
+      .ctcs-background .content .btn .point {
+        border-radius: 80px;
+        color: #fff;
+        font-size: 75px;
+        font-weight: bold;
+        width: 50%;
+        background: #380064;
+        margin: auto;
+        padding: 30px 50px; }
+
 /*# sourceMappingURL=styles.css.map */

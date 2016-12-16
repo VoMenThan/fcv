@@ -1099,12 +1099,6 @@ a {
   .item_section .content_section {
     background: #4dc6e9;
     padding-bottom: 288px; }
-<<<<<<< HEAD
-  .item_section p {
-    font-size: 44px;
-    color: #fff;
-    padding: 60px; }
-=======
     .item_section .content_section p {
       font-size: 44px;
       color: #fff; }
@@ -1143,7 +1137,6 @@ a {
         border-right: 3px solid #fff; }
       .item_section .content_section .timeline-section .span-border-height {
         height: 96px; }
->>>>>>> cc313ade7ac717ac69a60b6c83851bca4d6d0a00
   .item_section .btn-content-section .btn-section {
     padding: 45px 0;
     display: inline-block;
@@ -1172,8 +1165,6 @@ a {
   padding-left: 100px;
   padding-right: 100px; }
 
-.home-ctcs .home-ctcs-background .section_content_p {
-  padding: 60px 190px; }
 .home-ctcs .home-ctcs-background {
   background: #8d33d3;
   background: -webkit-linear-gradient(#8d33d3, #7100c8);
@@ -1182,6 +1173,11 @@ a {
   background: -o-linear-gradient(#8d33d3, #7100c8);
   background: -moz-linear-gradient(#8d33d3, #7100c8);
   background: linear-gradient(#8d33d3, #7100c8); }
+  .home-ctcs .home-ctcs-background .section_content_p {
+    padding: 60px 190px; }
+  .home-ctcs .home-ctcs-background .home-content {
+    padding-left: 160px !important;
+    padding-right: 160px !important; }
 
 .home-extension .home-extension-background {
   background: #fff !important; }
@@ -1205,41 +1201,6 @@ a {
   top: 25%;
   right: 3%;
   cursor: pointer; }
-
-.timeline-section {
-  padding-left: 95px;
-  padding-right: 95px; }
-  .timeline-section p {
-    font-size: 38px;
-    border: 3px solid #fff;
-    -webkit-border-radius: 65px;
-    -moz-border-radius: 65px;
-    border-radius: 65px;
-    padding: 45px 0;
-    margin-bottom: 32px;
-    margin-top: 0;
-    position: relative; }
-    .timeline-section p:after {
-      content: '';
-      display: block;
-      position: absolute;
-      border-right: 3px solid #fff;
-      height: 32px;
-      left: 50%;
-      bottom: -34px; }
-  .timeline-section p:last-child:after {
-    content: '';
-    display: block;
-    position: absolute;
-    border-right: 3px solid #fff;
-    height: 96px;
-    left: 50%;
-    bottom: -96px; }
-  .timeline-section .span-border {
-    height: 32px;
-    border-right: 3px solid #fff; }
-  .timeline-section .span-border-height {
-    height: 96px; }
 
 body {
   font-size: 24px;

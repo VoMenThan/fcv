@@ -7,9 +7,9 @@
         <img src="assets/images/img/ctcs_box.png" alt="">
     </div>
     <div class="head">
-        <p>Thảo sức mua sắm với ưu đãi:</p>
+        <p>Thoả sức mua sắm với ưu đãi:</p>
         <img src="assets/images/img/ctcs_ghe.png" alt="">
-        <h3>Nâng cao tiện ích gia đình</h3>
+        <h3>Nâng cao <br> tiện ích gia đình</h3>
 
     </div>
     <div class="content">

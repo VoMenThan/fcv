@@ -1158,6 +1158,30 @@ strong {
   padding-bottom: 300px;
   color: #ffffff; }
 
+.dtcc-background {
+  background: #34cba2;
+  background: -webkit-linear-gradient(#34cba2, #01be8b);
+  background: linear-gradient(#34cba2, #01be8b);
+  background: -webkit-linear-gradient(#34cba2, #01be8b);
+  background: -o-linear-gradient(#34cba2, #01be8b);
+  background: -moz-linear-gradient(#34cba2, #01be8b);
+  background: linear-gradient(#34cba2, #01be8b);
+  padding-top: 40px;
+  padding-bottom: 300px;
+  color: #ffffff; }
+
+.cssk-background {
+  background: #32bee6;
+  background: -webkit-linear-gradient(#32bee6, #00aee0);
+  background: linear-gradient(#32bee6, #00aee0);
+  background: -webkit-linear-gradient(#32bee6, #00aee0);
+  background: -o-linear-gradient(#32bee6, #00aee0);
+  background: -moz-linear-gradient(#32bee6, #00aee0);
+  background: linear-gradient(#32bee6, #00aee0);
+  padding-top: 40px;
+  padding-bottom: 300px;
+  color: #ffffff; }
+
 .wrap-page .name {
   padding-bottom: 85px; }
   .wrap-page .name span {
@@ -1181,8 +1205,7 @@ strong {
     width: 11%; }
   .wrap-page .head h3 {
     padding-top: 30px;
-    font-size: 45px;
-    font-family: "HelveticaNeue-Bold", Helvetica, arial, sans-serif; }
+    font-size: 45px; }
 .wrap-page .bg_white {
   background: #ffffff; }
 .wrap-page .content {
@@ -1213,6 +1236,9 @@ strong {
     font-size: 36px; }
     .wrap-page .content p span {
       color: #7e18cd; }
+  .wrap-page .content .gray {
+    color: #989898;
+    padding-top: 0px; }
   .wrap-page .content .box-img {
     padding-top: 140px;
     padding-bottom: 140px; }
@@ -1227,6 +1253,13 @@ strong {
       text-align: center;
       font-size: 39px;
       padding-top: 0; }
+    .wrap-page .content .btn .stand {
+      padding-bottom: 0px;
+      margin-bottom: 0px; }
+    .wrap-page .content .btn .gray {
+      color: #989898;
+      font-size: 31px;
+      line-height: 44px; }
     .wrap-page .content .btn .point {
       -webkit-border-radius: 83px;
       -moz-border-radius: 83px;
@@ -1236,12 +1269,36 @@ strong {
       color: #fff;
       font-size: 75px;
       font-family: "HelveticaNeue-Bold", Helvetica, arial, sans-serif;
-      background: #7f19cd;
       width: 50%;
       margin: auto;
       padding-top: 27px;
       padding-bottom: 27px;
       overflow: hidden; }
+
+.dtcc-background ul {
+  list-style: none inside; }
+  .dtcc-background ul li {
+    display: inline-block;
+    width: 49%; }
+    .dtcc-background ul li img {
+      width: 22% !important; }
+
+.cssk-background ul {
+  list-style: none inside; }
+  .cssk-background ul li {
+    display: inline-block;
+    width: 49%; }
+    .cssk-background ul li img {
+      width: 22% !important; }
+
+.ctcs-background .point {
+  background: #7f19cd; }
+
+.dtcc-background .point {
+  background: #34cba2; }
+
+.wrap-page .next-box {
+  margin-top: 30px; }
 
 .dark {
   position: relative; }

@@ -1277,6 +1277,27 @@ strong {
 .itum {
   background: red; }
 
+.login .content-box {
+  background: url("../images/img/bg_screen.jpg"); }
+  .login .content-box .img {
+    width: 41%; }
+  .login .content-box .name {
+    text-align: center;
+    font-size: 50px; }
+  .login .content-box form input[type="text"] {
+    height: 130px;
+    width: 82%;
+    font-size: 43px;
+    background: #ffffff;
+    border-radius: 15px;
+    border: none; }
+  .login .content-box form input {
+    margin-top: 30px;
+    padding-left: 50px;
+    text-align: center; }
+.login .foot-box {
+  background: #018ad2; }
+
 .ctcs-background {
   background: #8d33d3;
   background: -webkit-linear-gradient(#8d33d3, #7100c8);
@@ -1370,7 +1391,7 @@ strong {
   .wrap-page .content .img_content img {
     width: 100%; }
   .wrap-page .content .box_content {
-    padding-top: 50px;
+    padding-top: 85px;
     padding-bottom: 20px;
     color: #414141;
     text-align: left;
@@ -1379,38 +1400,6 @@ strong {
     font-size: 36px; }
     .wrap-page .content .box_content span {
       color: #7e18cd; }
-  .wrap-page .content .timeline-section {
-    width: 81%;
-    margin: auto;
-    padding-top: 35px;
-    padding-bottom: 20px; }
-    .wrap-page .content .timeline-section .home-content {
-      font-size: 38px;
-      border: 3px solid #00aee0;
-      -webkit-border-radius: 65px;
-      -moz-border-radius: 65px;
-      border-radius: 65px;
-      padding: 45px 0;
-      margin-bottom: 32px;
-      margin-top: 0;
-      position: relative;
-      color: #00aee0; }
-      .wrap-page .content .timeline-section .home-content:after {
-        content: '';
-        display: block;
-        position: absolute;
-        border-right: 3px solid #00aee0;
-        height: 32px;
-        left: 50%;
-        bottom: -34px; }
-    .wrap-page .content .timeline-section .home-content:last-child:after {
-      content: '';
-      display: none; }
-    .wrap-page .content .timeline-section .span-border {
-      height: 32px;
-      border-right: 3px solid #00aee0; }
-    .wrap-page .content .timeline-section .span-border-height {
-      height: 96px; }
   .wrap-page .content .gray {
     color: #989898;
     padding-top: 0px; }
@@ -1494,5 +1483,15 @@ strong {
   .dark span {
     position: relative;
     z-index: 1; }
+
+.clearfix {
+  clear: both; }
+
+.box_content_wrapper .box_content_heading {
+  font-size: 44px;
+  margin-bottom: 75px; }
+.box_content_wrapper .box_content_right img {
+  float: left;
+  margin-right: 55px; }
 
 /*# sourceMappingURL=styles.css.map */

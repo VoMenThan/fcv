@@ -56,12 +56,12 @@
     }
   }
   .item_section_background{
-    position: absolute;
-    top: -18px;
-    left: 50%;
-    transform: translate(-50%,0);
-    z-index: 0;
-  }
+      position: absolute;
+      top: -18px;
+      left: 50%;
+      transform: translate(-50%,0);
+      z-index: 0;
+    }
   .icon-top{
     position: absolute;
     top: 20px;
@@ -126,7 +126,7 @@
         height: 96px;
       }
     }
-  }
+    }
   .btn-content-section{
     .btn-section{
       padding: 45px 0;
@@ -134,7 +134,7 @@
       color: #fff;
       margin-top: 60px;
       width: 625px;
-    }
+      }
     .home{
       &:after{
         @include border-radius($radius: 65px)
@@ -148,70 +148,68 @@
 }
 
 .home-cssk{
-  .content_section {
-    .text-home-cssk {
-      padding: 60px 220px;
-    }
+    .content_section {
+      .text-home-cssk {
+        padding: 60px 220px;
+      }
   }
 }
 
 .home-gkgd{
-  .content_section {
-    .text-home-gkgd{
-      padding: 60px 120px;
-    }
-  }
-}
-
-.home-dtcc{
-  .content_section {
-    .section_content_dtccp{
-      padding: 0 220px;
-      margin-top: 55px;
-      margin-bottom: 80px;
-    }
-    .timeline-section {
-      .home-content:first-child{
-        padding-left: 100px;
-        padding-right: 100px;
+    .content_section {
+      .text-home-gkgd{
+        padding: 60px 120px;
       }
-    }
+      }
   }
-}
 
-  .home-ctcs {
-          .home-ctcs-background {
-            @include textGradient(#8d33d3, #7100c8);
-            .section_content_p {
-              padding: 60px 190px;
-            }
-            .home-content {
-              padding-left: 160px !important;
-              padding-right: 160px !important;
-            }
+  .home-dtcc{
+      .content_section {
+        .section_content_dtccp{
+          padding: 0 220px;
+          margin-top: 55px;
+          margin-bottom: 80px;
+        }
+        .timeline-section {
+          .home-content:first-child{
+            padding-left: 100px;
+            padding-right: 100px;
           }
         }
-
-  .home-extension {
-    .home-extension-background {
-      background: #fff !important;
-    }
-  }
-
-  .btn-wrapper {
-    border: 3px solid #008bd2;
-    @include border-radius($radius: 104px);
-    width: 862px;
-    display: inline-block;
-    .btn-home-register {
-      display: inline-block;
-      padding: 0px 100px;
-      font-size: 44px;
-      .text-btn {
-        color: #018ad2;
       }
+  }
+
+  .home-ctcs{
+    .home-ctcs-background {
+      .section_content_p{
+          padding: 60px 190px;
+        }
+      }
+      .home-ctcs-background {
+        @include textGradient(#8d33d3, #7100c8);
+      }
+  }
+
+.home-extension{
+    .home-extension-background{
+      background: #fff !important;
+  }
+}
+
+.btn-wrapper{
+  border: 3px solid #008bd2;
+  @include border-radius($radius: 104px);
+  width: 862px;
+  display: inline-block;
+  .btn-home-register{
+    display: inline-block;
+    padding: 0px 100px;
+    font-size: 44px;
+    .text-btn{
+      color: #018ad2;
     }
   }
+}
 
 .footer-menu{
   position: fixed;

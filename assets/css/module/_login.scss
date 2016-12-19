@@ -256,11 +256,18 @@
 }
 
 .box_content_wrapper{
+  .content_p{
+    font-size: 35px;
+    margin-bottom: 100px;
+  }
   .box_wrapper{
     margin-bottom: 75px;
   }
+  .heading_content{
+    font-size: 43px;
+  }
   .box_content_heading{
-    font-size: 44px;
+    font-size: 43px;
     margin-bottom: 75px;
   }
   .box_content_left{
@@ -269,9 +276,9 @@
   }
   .box_content_right{
     float: left;
-    width: 617px;
+    width: 614px;
     h2 {
-      font-size: 44px;
+      font-size: 43px;
       padding-bottom: 30px;
     }
     p{

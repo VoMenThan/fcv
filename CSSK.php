@@ -29,13 +29,15 @@
                 Sẽ kiểm tra toàn diện sức khoẻ của bạn từ mắt, tai, mũi, họng, điện tâm đồ, X-quang tim phổi, siêu âm bụng, xét nghiệm máu, đường huyết, cholesterol, kiểm tra chức năng gan, thận, tầm soát viêm gan siêu vi B, phân tích nước tiểu, khám phụ khoa, tầm soát các nguy cơ về tim mạch, đái tháo đường...
             </div>
             <div class="box_content">
-                Ưu điểm vượt trội: <br>
-                + Được kiểm tra sức khoẻ tại các bệnh viện uy tín, trang thiết bị y tế hiện đại
-                <br>+ Thủ tục đơn giản, chỉ cần đổi điểm và sử dụng dịch vụ:
-                <br>1. Cá nhân tự đi:
-                <br>Có thể gọi đến các bệnh viện đối tác của FCV/FCH đặt trước để được phục vụ chu đáo
-                <br>2. Khám theo đoàn:
-                <br>Có thể chọn tham gia "Ngày khám sức khoẻ" tập trung cho từng khu vực vào ngày cố định
+                <span class="title">Ưu điểm vượt trội:</span>
+                <div class="pad">
+                    + Được kiểm tra sức khoẻ tại các <span class="blue">bệnh viện uy tín, trang thiết bị y tế hiện đại</span>
+                    <br>+ <span class="blue">Thủ tục đơn giản</span>, chỉ cần đổi điểm và sử dụng dịch vụ:
+                    <br>1. Cá nhân tự đi:
+                    <br>Có thể gọi đến các bệnh viện đối tác của FCV/FCH đặt trước để được phục vụ chu đáo
+                    <br>2. Khám theo đoàn:
+                    <br>Có thể chọn tham gia "Ngày khám sức khoẻ" tập trung cho từng khu vực vào ngày cố định
+                </div>
             </div>
             <div class="timeline-section">
                 <div class="home-content">Các bệnh viện uy tín rộng khắp</div>
@@ -65,12 +67,13 @@
 
             </div>
             <div class="box_content">
-                Ưu điểm vượt trội
-                <br>+ Có thể đi khám tại tất cả các bệnh viện, phòng khám hoạt động hợp pháp tại Việt Nam
-                <br>+ Khách hàng không cần thanh toán trước nếu sử dụng dịch vụ bảo lãnh viện phí tại các bệnh viện có uy tín & các cơ sở nha khoa hiện đại phủ khắp TPHCM
-                <br>+ Được tư vấn và bảo vệ về quyền lợi bảo hiểm bởi đội ngủ tư vấn viên chuyên nghiệp của JLT
-                <br>+ Không phải áp dụng thời gian chờ cho bệnh thông thường sau 30 ngày, bệnh có sẳn sau 365 ngày,
-
+                <span class="title">Ưu điểm vượt trội</span>
+                <div class="pad">
+                        + Có thể đi khám tại <span class="blue">tất cả các bệnh viện, phòng khám</span> hoạt động hợp pháp tại Việt Nam
+                    <br>+ Khách hàng <span class="blue">không cần thanh toán trước</span> nếu sử dụng dịch vụ bảo lãnh viện phí tại các bệnh viện có uy tín & các cơ sở nha khoa hiện đại phủ khắp TPHCM
+                    <br>+ <span class="blue">Được tư vấn và bảo vệ</span> về quyền lợi bảo hiểm bởi đội ngủ tư vấn viên chuyên nghiệp của JLT
+                    <br>+ <span class="blue">Không phải áp dụng thời gian chờ</span> cho bệnh thông thường sau 30 ngày, bệnh có sẳn sau 365 ngày,
+                </div>
             </div>
             <div class="timeline-section">
                 <div class="home-content">Các bệnh viên uy tín rộng khắp</div>

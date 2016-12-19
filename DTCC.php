@@ -32,15 +32,27 @@
 
             </div>
             <div class="box_content">
-                Điều kiện tham gia:<br />    + Người mua bảo hiểm: 18&mdash;55 tuổi<br />    + Người được mua bảo hiểm: 0&mdash;16 tuổi<br />    <strong>Cụ thể c&oacute; 3 phi&ecirc;n bản:</strong><br />    &bull; T&uacute; t&agrave;i: 0&mdash;8 tuổi<br />    &bull; Cử nh&acirc;n: 0&mdash;12 tuổi<br />    &bull; Thạc sĩ: 0&mdash;16 tuổi
+                <span class="title">Điều kiện tham gia:</span>
+                <div class="pad">
+                    + Người mua bảo hiểm: 18&mdash;55 tuổi<br />
+                    + Người được mua bảo hiểm: 0&mdash;16 tuổi<br />
+                    <strong>Cụ thể c&oacute; 3 phi&ecirc;n bản:</strong><br />
+                    &nbsp;&nbsp;&nbsp;&bull; T&uacute; t&agrave;i: 0&mdash;8 tuổi<br />
+                    &nbsp;&nbsp;&nbsp;&bull; Cử nh&acirc;n: 0&mdash;12 tuổi<br />
+                    &nbsp;&nbsp;&nbsp;&bull; Thạc sĩ: 0&mdash;16 tuổi
+                </div>
             </div>
             <div class="box_content">
-                Quyền lợi: <br> + An t&acirc;m kế hoạch gi&aacute;o dục trong tương lai của con bạn với khoản hỗ trợ học tập chắc chắn được chi trả dựa v&agrave;o mệnh gi&aacute; bảo hiểm qu&yacute; kh&aacute;ch đ&oacute;ng.<br> <br>+ Khoản bảo tức v&agrave; l&atilde;i suất t&iacute;ch luỹ hấp dẫn, gi&uacute;p gia tăng khoản tiền tiết kiệm cho c&aacute;c kế hoạch t&agrave;i ch&iacute;nh trong tương lai.
+                <span class="title">Quyền lợi:</span>
+                <div class="pad">
+                    + An t&acirc;m kế hoạch gi&aacute;o dục trong tương lai của con bạn với khoản hỗ trợ học tập chắc chắn được chi trả dựa v&agrave;o mệnh gi&aacute; bảo hiểm qu&yacute; kh&aacute;ch đ&oacute;ng.<br>
+                    <br>+ Khoản bảo tức v&agrave; l&atilde;i suất t&iacute;ch luỹ hấp dẫn, gi&uacute;p gia tăng khoản tiền tiết kiệm cho c&aacute;c kế hoạch t&agrave;i ch&iacute;nh trong tương lai.
+                </div>
             </div>
 
             <div class="btn">
                 <div class="change_point stand"><span>Điểm quy đổi</span></div>
-                <div class="change_point gray"><span>(điểm/năm)</span></div>
+                <div class="change_point boid gray"><span>(điểm/năm)</span></div>
                 <div class="point dark">
                     <span>1500</span>
                 </div>

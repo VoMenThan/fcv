@@ -244,15 +244,33 @@
 }
 
 .box_content_wrapper{
+  .box_wrapper{
+    margin-bottom: 75px;
+  }
   .box_content_heading{
     font-size: 44px;
     margin-bottom: 75px;
   }
+  .box_content_left{
+    float: left;
+    margin-right: 55px;
+  }
   .box_content_right{
-    img{
-      float: left;
-      margin-right: 55px;
+    float: left;
+    width: 617px;
+    h2 {
+      font-size: 44px;
+      padding-bottom: 30px;
     }
+    p{
+      font-size: 35px;
+    }
+  }
+}
+
+.btn_gkgd{
+  .point{
+    background: #7e681a !important;
   }
 }
 

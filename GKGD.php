@@ -30,23 +30,45 @@
         <div class="bg_white box_content_wrapper">
             <div class="box_content">
                 <h2 class="box_content_heading">Có 4 lựa chọn sau:</h2>
-                <div class="box_content_right">
+                <div class="box_wrapper clearfix">
+                <div class="box_content_left">
                     <img src="assets/images/img/gkgd_plan.png">
                 </div>
-                <div class="box_content_text">
+                <div class="box_content_right">
                     <h2>Vé máy bay</h2>
                     <p>Bạn có thể đặt vé máy bay tất cả các hãng hàng không: Vietnam Airlines, Vietjetairs, Jetstar,...</p>
                 </div>
+                </div>
+                <div class="box_wrapper clearfix">
+                <div class="box_content_left">
+                    <img src="assets/images/img/gkgd_house.png">
+                </div>
+                <div class="box_content_right">
+                    <h2>Dịch vụ khách sạn</h2>
+                    <p>Bạn có thể chỉ định khách sạn từ 3 đến 5 sao với số đêm bạn muốn.</p>
+                </div>
+                </div>
+                <div class="box_wrapper clearfix">
+                    <div class="box_content_left">
+                        <img src="assets/images/img/gkgd_tau.png">
+                    </div>
+                    <div class="box_content_right">
+                        <h2>Tour du lịch trong và ngoài nước</h2>
+                        <p>Bạn có thể chọn cả dịch vụ Du lịch linh hoạt trong nước hay ngoài nước vào thời điểm bất kỳ phù hợp với gia đình bạn.</p>
+                    </div>
+                </div>
+                <div class="box_wrapper clearfix">
+                    <div class="box_content_left">
+                        <img src="assets/images/img/gkgd_peo.png">
+                    </div>
+                    <div class="box_content_right">
+                        <h2>Tour trọn gói theo đoàn</h2>
+                        <p>Ngoài ra, bạn có thể đăng ký Du lịch trọn gói theo đoàn được tổ chức cho gia đình tất cả các khách hàng vào ngày cố định để cùng gặp gỡ và được hưởng các dịch vụ tốt hơn bạn.</p>
+                    </div>
+                </div>
 
             </div>
-            <div class="box_content">
-                Điều kiện tham gia:<br />    + Người mua bảo hiểm: 18&mdash;55 tuổi<br />    + Người được mua bảo hiểm: 0&mdash;16 tuổi<br />    <strong>Cụ thể c&oacute; 3 phi&ecirc;n bản:</strong><br />    &bull; T&uacute; t&agrave;i: 0&mdash;8 tuổi<br />    &bull; Cử nh&acirc;n: 0&mdash;12 tuổi<br />    &bull; Thạc sĩ: 0&mdash;16 tuổi
-            </div>
-            <div class="box_content">
-                Quyền lợi: <br> + An t&acirc;m kế hoạch gi&aacute;o dục trong tương lai của con bạn với khoản hỗ trợ học tập chắc chắn được chi trả dựa v&agrave;o mệnh gi&aacute; bảo hiểm qu&yacute; kh&aacute;ch đ&oacute;ng.<br> <br>+ Khoản bảo tức v&agrave; l&atilde;i suất t&iacute;ch luỹ hấp dẫn, gi&uacute;p gia tăng khoản tiền tiết kiệm cho c&aacute;c kế hoạch t&agrave;i ch&iacute;nh trong tương lai.
-            </div>
-
-            <div class="btn">
+            <div class="btn btn_gkgd">
                 <div class="change_point stand"><span>Điểm quy đổi</span></div>
                 <div class="change_point gray"><span>(điểm/người/lần)</span></div>
                 <div class="point dark">

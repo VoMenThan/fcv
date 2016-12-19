@@ -1495,11 +1495,24 @@ strong {
     position: relative;
     z-index: 1; }
 
+.box_content_wrapper .box_wrapper {
+  margin-bottom: 75px; }
 .box_content_wrapper .box_content_heading {
   font-size: 44px;
   margin-bottom: 75px; }
-.box_content_wrapper .box_content_right img {
+.box_content_wrapper .box_content_left {
   float: left;
   margin-right: 55px; }
+.box_content_wrapper .box_content_right {
+  float: left;
+  width: 617px; }
+  .box_content_wrapper .box_content_right h2 {
+    font-size: 44px;
+    padding-bottom: 30px; }
+  .box_content_wrapper .box_content_right p {
+    font-size: 35px; }
+
+.btn_gkgd .point {
+  background: #7e681a !important; }
 
 /*# sourceMappingURL=styles.css.map */

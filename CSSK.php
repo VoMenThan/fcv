@@ -37,7 +37,11 @@
                 <br>2. Khám theo đoàn:
                 <br>Có thể chọn tham gia "Ngày khám sức khoẻ" tập trung cho từng khu vực vào ngày cố định
             </div>
-
+            <div class="timeline-section">
+                <div class="home-content">Các bệnh viện uy tín rộng khắp</div>
+                <div class="home-content">Cơ sở & trang thiết bị hiện đại</div>
+                <div class="home-content">Đội ngũ bác sĩ chuyên nghiệp</div>
+            </div>
             <div class="btn">
                 <div class="change_point stand">Điểm quy đổi</div>
                 <div class="change_point gray">(điểm/người/lần</div>
@@ -67,6 +71,12 @@
                 <br>+ Được tư vấn và bảo vệ về quyền lợi bảo hiểm bởi đội ngủ tư vấn viên chuyên nghiệp của JLT
                 <br>+ Không phải áp dụng thời gian chờ cho bệnh thông thường sau 30 ngày, bệnh có sẳn sau 365 ngày,
 
+            </div>
+            <div class="timeline-section">
+                <div class="home-content">Các bệnh viên uy tín rộng khắp</div>
+                <div class="home-content">Các cơ sở nha khoa hiện đại</div>
+                <div class="home-content">Đội ngũ bác sĩ chuyên nghiệp</div>
+                <div class="home-content">Trang thiết bị hiện đại</div>
             </div>
             <div class="btn">
                 <div class="change_point stand">Điểm quy đổi</div>

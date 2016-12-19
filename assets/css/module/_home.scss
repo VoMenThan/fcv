@@ -182,13 +182,14 @@
   .home-ctcs{
     .home-ctcs-background {
       @include textGradient(#8d33d3, #7100c8);
-      .section_content_p{
-          padding: 60px 190px;
-        }
-      .home-content{
+      .section_content_p {
+        padding: 60px 190px;
+      }
+      .home-content {
         padding-left: 160px !important;
         padding-right: 160px !important;
       }
+    }
   }
 
 .home-extension{

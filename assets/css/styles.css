@@ -1550,6 +1550,12 @@ strong {
     margin-top: 50px; }
 
 .btn_gkgd .point {
-  background: #7e681a !important; }
+  background: #dfba3b;
+  background: -webkit-linear-gradient(#dfba3b, #d8ab0f);
+  background: linear-gradient(#dfba3b, #d8ab0f);
+  background: -webkit-linear-gradient(#dfba3b, #d8ab0f);
+  background: -o-linear-gradient(#dfba3b, #d8ab0f);
+  background: -moz-linear-gradient(#dfba3b, #d8ab0f);
+  background: linear-gradient(#dfba3b, #d8ab0f); }
 
 /*# sourceMappingURL=styles.css.map */

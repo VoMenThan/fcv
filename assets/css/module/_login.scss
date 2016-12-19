@@ -324,7 +324,7 @@
 
 .btn_gkgd{
   .point{
-    background: #7e681a !important;
+    @include textGradient(#dfba3b, #d8ab0f);
   }
 }
 

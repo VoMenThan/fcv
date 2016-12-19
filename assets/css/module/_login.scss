@@ -56,6 +56,15 @@
    color: #ffffff;
  }
 
+.gkgd-background {
+  @include textGradient(#dfba3b, #d8ab0f);
+  padding-top: 40px;
+  padding-bottom: 300px;
+  color: #ffffff;
+}
+
+
+
 
 .wrap-page {
   .name {
@@ -77,15 +86,15 @@
   }
   .head {
     padding-bottom: 90px;
-    p {
+    .title_head {
       font-size: 39px;
       padding-top: 100px;
     }
-    img {
+    .img_head .img1 {
       padding-top: 80px;
       width: 11%;
     }
-    h3 {
+    .slogan_head {
       padding-top: 30px;
       font-size: 45px;
     }
@@ -108,11 +117,11 @@
         margin: auto;
       }
     }
-    img {
+    .img_content img{
       width: 100%;
 
     }
-    p {
+    .box_content {
       padding-top: 85px;
       padding-bottom: 20px;
       color: #414141;
@@ -140,11 +149,12 @@
       min-height: 200px;
       padding-bottom: 100px;
       padding-top: 30px;
-      p {
+      .change_point {
         color: #252525;
         text-align: center;
         font-size: 39px;
         padding-top: 0;
+        padding-bottom: 30px;
       }
       .stand {
         padding-bottom: 0px;
@@ -170,23 +180,18 @@
 
   }
 }
-.dtcc-background ul {
+ .icon_head {
   list-style: none inside;
-  li{
-    display: inline-block;
-    width: 49%;
-    img{
-      width: 22% !important;
-    }
-  }
-}
-.cssk-background ul {
-  list-style: none inside;
-  li{
-    display: inline-block;
-    width: 49%;
-    img{
-      width: 22% !important;
+  .list {
+    float: left;
+    width: 50%;
+    padding-top: 60px;
+
+    &:nth-child(3){
+      float: none;
+      display: block;
+      margin: 55px auto 0;
+      clear: both;
     }
   }
 }
@@ -200,9 +205,17 @@
     background: #34cba2;
   }
 }
-.content {
-
+.cssk-background{
+  .point{
+    background: #32bee6;
+  }
 }
+.gfgd-background{
+  .point{
+    background: #dfba3b;
+  }
+}
+
 .wrap-page{
   .next-box{
     margin-top: 30px;
@@ -227,7 +240,9 @@
     z-index: 1;
   }
 }
-
+.clearfix{
+  clear: both;
+}
 
 
 

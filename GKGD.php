@@ -1,32 +1,33 @@
 <?php include('header.php'); ?>
 
-<div class="wrap-page text-center dtcc-background">
+<div class="wrap-page text-center gkgd-background">
     <!-- ?code page -->
-    <div class="name"><span>Đầu tư con cái</span></div>
+    <div class="name"><span>Gắn kết gia đình</span></div>
     <div class="image">
-        <img src="assets/images/img/dtcc_box.png" alt="">
+        <img src="assets/images/img/gkgd_box.png" alt="">
     </div>
     <div class="head">
-        <div class="title_head">Mang đến bạn các lựa chọn sau:</div>
+        <div class="title_head">Bao gồm 3 gói dịch vụ sau:</div>
         <ul class="icon_head">
             <li class="list">
-                <div class="img_head"><img class="img2" src="assets/images/img/dtcc_peo.png" alt=""></div>
-                <div class="logan_head">Bảo hiểm <br> Thành tài lập nghiệp</div>
+                <div class="img_head"><img class="img2" src="assets/images/img/gkgd_oto.png" alt=""></div>
+                <div class="logan_head">Du lịch cả nhà</div>
             </li>
             <li class="list">
-                <div class="img_head"><img class="img2" src="assets/images/img/dtcc_hat.png" alt=""></div>
-                <div class="logan_head">Học bổng <br> tiếng Anh</div>
+                <div class="img_head"><img class="img2" src="assets/images/img/gkgd_dao.png" alt=""></div>
+                <div class="logan_head">Ăn tối gia đình</div>
+            </li>
+            <li class="list">
+                <div class="img_head"><img class="img2" src="assets/images/img/gkgd_phone.png" alt=""></div>
+                <div class="logan_head">Gọi nhiều hơn,<br>hiểu nhau hơn</div>
             </li>
         </ul>
 
         <div class="clearfix"></div>
     </div>
     <div class="content">
-        <div class="title dark"><span>Bảo hiểm Thành tài lập nghiệp</span></div>
+        <div class="title dark"><span>Du lịch cả nhà</span></div>
         <div class="bg_white">
-            <div class="img_content">
-                <img src="assets/images/img/dtcc_box2.jpg" alt="">
-            </div>
             <div class="box_content">
                 Là đấng sinh thành, bạn luôn mong muốn con mình nhận được học tập tốt nhất. Tuy nhiên điều này hoàn toàn không dễ dàng khi các loại chi phí ngày càng tăng cao. Với Manulife - Thành Tài Lập Nghiệp, một giải pháp giáo dục ưu việt, giúp bạn lên kế hoạch giáo dục cho con ngay từ hôm nay.
 
@@ -40,26 +41,40 @@
 
             <div class="btn">
                 <div class="change_point stand"><span>Điểm quy đổi</span></div>
-                <div class="change_point gray"><span>(điểm/năm)</span></div>
+                <div class="change_point gray"><span>(điểm/người/lần)</span></div>
                 <div class="point dark">
-                    <span>1500</span>
+                    <span>650</span>
                 </div>
             </div>
         </div>
     </div>
 
     <div class="content next-box">
-        <div class="title dark"><span>Học bổng tiếng Anh</span></div>
+        <div class="title dark"><span>Ăn tối gia đình</span></div>
         <div class="bg_white">
-            <div class="img_content"><img src="assets/images/img/dtcc_box3.jpg" alt=""></div>
             <div class="box_content">Hệ thống chi nhánh rộng khắp của trung tâm Anh văn nổi tiếng Việt Mỹ hoặc ILA.</div>
             <div class="box_content gray">(Chi tiết sẽ được thông báo sau)</div>
 
             <div class="btn">
                 <div class="change_point stand">Điểm quy đổi</div>
-                <div class="change_point gray">(điểm/khoá)</div>
                 <div class="point dark">
-                    <span>1500</span>
+                    <span>150</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="content next-box">
+        <div class="title dark"><span>Gọi nhiều hơn, hiểu nhau hơn</span></div>
+        <div class="bg_white">
+            <div class="box_content">Hệ thống chi nhánh rộng khắp của trung tâm Anh văn nổi tiếng Việt Mỹ hoặc ILA.</div>
+            <div class="box_content gray">(Chi tiết sẽ được thông báo sau)</div>
+
+            <div class="btn">
+                <div class="change_point stand">Điểm quy đổi</div>
+                <div class="point dark">
+                    <span>150</span>
                 </div>
             </div>
         </div>

@@ -179,19 +179,18 @@
   }
 }
 
-  .home-ctcs {
-          .home-ctcs-background {
-            @include textGradient(#8d33d3, #7100c8);
-            .section_content_p {
-              padding: 60px 190px;
-            }
-            .home-content {
-              padding-left: 160px !important;
-              padding-right: 160px !important;
-            }
-          }
-        }
-
+.home-ctcs {
+  .home-ctcs-background {
+    @include textGradient(#8d33d3, #7100c8);
+    .section_content_p {
+      padding: 60px 190px;
+    }
+    .home-content {
+      padding-left: 160px !important;
+      padding-right: 160px !important;
+    }
+  }
+}
   .home-extension {
     .home-extension-background {
       background: #fff !important;
@@ -213,9 +212,10 @@
     }
   }
 
-.footer-menu{
-  position: fixed;
-  top: 25%;
-  right: 3%;
-  cursor: pointer;
-}
+  .footer-menu {
+    position: fixed;
+    top: 25%;
+    right: 3%;
+    cursor: pointer;
+  }
+

@@ -27,9 +27,16 @@
     </div>
     <div class="content">
         <div class="title dark"><span>Du lịch cả nhà</span></div>
-        <div class="bg_white">
+        <div class="bg_white box_content_wrapper">
             <div class="box_content">
-                Là đấng sinh thành, bạn luôn mong muốn con mình nhận được học tập tốt nhất. Tuy nhiên điều này hoàn toàn không dễ dàng khi các loại chi phí ngày càng tăng cao. Với Manulife - Thành Tài Lập Nghiệp, một giải pháp giáo dục ưu việt, giúp bạn lên kế hoạch giáo dục cho con ngay từ hôm nay.
+                <h2 class="box_content_heading">Có 4 lựa chọn sau:</h2>
+                <div class="box_content_right">
+                    <img src="assets/images/img/gkgd_plan.png">
+                </div>
+                <div class="box_content_text">
+                    <h2>Vé máy bay</h2>
+                    <p>Bạn có thể đặt vé máy bay tất cả các hãng hàng không: Vietnam Airlines, Vietjetairs, Jetstar,...</p>
+                </div>
 
             </div>
             <div class="box_content">

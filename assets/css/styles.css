@@ -1487,4 +1487,11 @@ strong {
 .clearfix {
   clear: both; }
 
+.box_content_wrapper .box_content_heading {
+  font-size: 44px;
+  margin-bottom: 75px; }
+.box_content_wrapper .box_content_right img {
+  float: left;
+  margin-right: 55px; }
+
 /*# sourceMappingURL=styles.css.map */

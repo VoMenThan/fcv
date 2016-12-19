@@ -69,7 +69,7 @@
 
             <div class="btn">
                 <div class="change_point stand">Điểm quy đổi</div>
-                <div class="change_point gray">(điểm/khoá)</div>
+                <div class="change_point boid gray">(điểm/khoá)</div>
                 <div class="point dark">
                     <span>1500</span>
                 </div>

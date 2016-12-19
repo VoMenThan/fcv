@@ -46,7 +46,7 @@
             </div>
             <div class="btn">
                 <div class="change_point stand">Điểm quy đổi</div>
-                <div class="change_point boid gray">(điểm/người/lần</div>
+                <div class="change_point boid gray">(điểm/người/lần)</div>
                 <div class="point dark">
                     <span>2.700</span>
                 </div>

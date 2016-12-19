@@ -1287,7 +1287,7 @@ strong {
   background: -o-linear-gradient(#8d33d3, #7100c8);
   background: -moz-linear-gradient(#8d33d3, #7100c8);
   background: linear-gradient(#8d33d3, #7100c8);
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 300px;
   color: #ffffff; }
 
@@ -1299,7 +1299,7 @@ strong {
   background: -o-linear-gradient(#34cba2, #01be8b);
   background: -moz-linear-gradient(#34cba2, #01be8b);
   background: linear-gradient(#34cba2, #01be8b);
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 300px;
   color: #ffffff; }
 
@@ -1311,7 +1311,7 @@ strong {
   background: -o-linear-gradient(#32bee6, #00aee0);
   background: -moz-linear-gradient(#32bee6, #00aee0);
   background: linear-gradient(#32bee6, #00aee0);
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 300px;
   color: #ffffff; }
 
@@ -1323,7 +1323,7 @@ strong {
   background: -o-linear-gradient(#dfba3b, #d8ab0f);
   background: -moz-linear-gradient(#dfba3b, #d8ab0f);
   background: linear-gradient(#dfba3b, #d8ab0f);
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 300px;
   color: #ffffff; }
 
@@ -1367,7 +1367,7 @@ strong {
     height: 96px; }
 
 .wrap-page .name {
-  padding-bottom: 85px; }
+  padding-bottom: 70px; }
   .wrap-page .name span {
     font-size: 76px;
     color: #fff; }
@@ -1376,14 +1376,16 @@ strong {
   .wrap-page .image img {
     width: 65%;
     border: 3px solid #fff;
-    border-radius: 50% 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
     padding: 20px;
     box-sizing: border-box; }
 .wrap-page .head {
-  padding-bottom: 90px; }
+  padding-bottom: 80px; }
   .wrap-page .head .title_head {
     font-size: 39px;
-    padding-top: 100px; }
+    padding-top: 65px; }
   .wrap-page .head .img_head .img1 {
     padding-top: 80px;
     width: 11%; }
@@ -1411,7 +1413,7 @@ strong {
   .wrap-page .content .img_content img {
     width: 100%; }
   .wrap-page .content .box_content {
-    padding-top: 50px;
+    padding-top: 40px;
     padding-bottom: 20px;
     color: #414141;
     text-align: left;

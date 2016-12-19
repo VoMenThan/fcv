@@ -2,27 +2,27 @@
 
 .ctcs-background {
    @include textGradient(#8d33d3, #7100c8);
-   padding-top: 40px;
+   padding-top: 20px;
    padding-bottom: 300px;
    color: #ffffff;
  }
 
 .dtcc-background {
    @include textGradient(#34cba2, #01be8b);
-   padding-top: 40px;
+   padding-top: 20px;
    padding-bottom: 300px;
    color: #ffffff;
  }
 .cssk-background {
    @include textGradient(#32bee6, #00aee0);
-   padding-top: 40px;
+   padding-top: 20px;
    padding-bottom: 300px;
    color: #ffffff;
  }
 
 .gkgd-background {
   @include textGradient(#dfba3b, #d8ab0f);
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 300px;
   color: #ffffff;
 }
@@ -82,7 +82,7 @@
 
 .wrap-page {
   .name {
-    padding-bottom: 85px;
+    padding-bottom: 70px;
     span {
       font-size: 76px;
       color: #fff;
@@ -93,16 +93,16 @@
     img {
       width: 65%;
       border: 3px solid #fff;
-      border-radius: 50% 50%;
+      @include border-radius(50%);
       padding: 20px;
       box-sizing: border-box;
     }
   }
   .head {
-    padding-bottom: 90px;
+    padding-bottom: 80px;
     .title_head {
       font-size: 39px;
-      padding-top: 100px;
+      padding-top: 65px;
     }
     .img_head .img1 {
       padding-top: 80px;
@@ -136,7 +136,7 @@
 
     }
     .box_content {
-      padding-top: 50px;
+      padding-top: 40px;
       padding-bottom: 20px;
       color: #414141;
       text-align: left;

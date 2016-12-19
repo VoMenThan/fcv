@@ -93,7 +93,7 @@
       padding-left: 5%;
       padding-right: 5%;
       font-size: 36px;
-      span {
+      .purple {
         color: #7e18cd;
       }
 
@@ -136,9 +136,18 @@
         height: 96px;
       }
     }
+    .blue{
+      color: #00aee0;
+    }
     .gray{
       color: #989898;
       padding-top: 0px;
+    }
+    .title{
+      font-size: 44px;
+    }
+    .pad{
+      padding-left: 5% !important;
     }
     .box-img {
       padding-top: 140px;
@@ -149,14 +158,14 @@
     }
     .btn {
       min-height: 200px;
-      padding-bottom: 100px;
+      padding-bottom: 85px;
       padding-top: 30px;
       .change_point {
         color: #252525;
         text-align: center;
         font-size: 39px;
         padding-top: 0;
-        padding-bottom: 30px;
+        padding-bottom: 20px;
       }
       .stand {
         padding-bottom: 0px;
@@ -166,6 +175,9 @@
         color: #989898;
         font-size: 31px;
         line-height: 44px;
+      }
+      .boid{
+        font-family: $main-b;
       }
       .point {
         @include radius(83px);

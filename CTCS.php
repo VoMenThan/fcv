@@ -17,10 +17,10 @@
         <div class="bg_white">
             <div class="img_content"><img src="assets/images/img/ctcs_box2.jpg" alt=""></div>
             <div class="box_content">
-                Chương trình <span>Nâng cao tiện nghi gia đình</span> giúp quý khách - đặc biệt khu vực nông thôn trang bị các thiết bị gia đình phù hợp với nhu cầu thiết yếu của gia đình mình như <span>máy lạnh, tủ lạnh, tivi,...</span>
+                Chương trình <span class="purple">Nâng cao tiện nghi gia đình</span> giúp quý khách - đặc biệt khu vực nông thôn trang bị các thiết bị gia đình phù hợp với nhu cầu thiết yếu của gia đình mình như <span class="purple">máy lạnh, tủ lạnh, tivi,...</span>
             </div>
             <div class="box_content">
-                Từ 650 điểm, quý khách có thể <span>đổi điểm tích luỹ</span> sang phiếu mua hàng của <span>Trung tâm điện máy Nguyễn Ki</span>m để chọn mua các sản phẩm điện máy, điện tử,...
+                Từ 650 điểm, quý khách có thể <span class="purple">đổi điểm tích luỹ</span> sang phiếu mua hàng của <span class="purple">Trung tâm điện máy Nguyễn Ki</span>m để chọn mua các sản phẩm điện máy, điện tử,...
             </div>
             <div class="box-img">
                 <img src="assets/images/img/ctcs_loa.jpg" alt="">

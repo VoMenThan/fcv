@@ -27,6 +27,56 @@
   color: #ffffff;
 }
 
+.box_timeline{
+  .timeline-section{
+    .home-content{
+      border: 3px solid #d8ab0f;
+      color: #d8ab0f;
+      &:after{
+        border-right: 3px solid #d8ab0f;
+      }
+    }
+  }
+}
+
+.timeline-section{
+  width: 81%;
+  margin: auto;
+  padding-top: 35px;
+  padding-bottom: 20px;
+  .home-content{
+    font-size: 38px;
+    border: 3px solid #00aee0;
+    @include border-radius($radius: 65px);
+    padding: 45px 0;
+    margin-bottom: 32px;
+    margin-top: 0;
+    position: relative;
+    color: #00aee0;
+    &:after{
+      content: '';
+      display: block;
+      position: absolute;
+      border-right: 3px solid #00aee0;
+      height: 32px;
+      left: 50%;
+      bottom: -34px;
+    }
+  }
+  .home-content:last-child{
+    &:after{
+      content: '';
+      display: none;
+    }
+  }
+  .span-border{
+    height: 32px;
+    border-right: 3px solid #00aee0;
+  }
+  .span-border-height{
+    height: 96px;
+  }
+}
 
 
 
@@ -95,45 +145,6 @@
       font-size: 36px;
       .purple {
         color: #7e18cd;
-      }
-
-    }
-    .timeline-section{
-      width: 81%;
-      margin: auto;
-      padding-top: 35px;
-      padding-bottom: 20px;
-      .home-content{
-        font-size: 38px;
-        border: 3px solid #00aee0;
-        @include border-radius($radius: 65px);
-        padding: 45px 0;
-        margin-bottom: 32px;
-        margin-top: 0;
-        position: relative;
-        color: #00aee0;
-        &:after{
-          content: '';
-          display: block;
-          position: absolute;
-          border-right: 3px solid #00aee0;
-          height: 32px;
-          left: 50%;
-          bottom: -34px;
-        }
-      }
-      .home-content:last-child{
-        &:after{
-          content: '';
-          display: none;
-        }
-      }
-      .span-border{
-        height: 32px;
-        border-right: 3px solid #00aee0;
-      }
-      .span-border-height{
-        height: 96px;
       }
     }
     .blue{
@@ -284,6 +295,30 @@
     p{
       font-size: 35px;
     }
+    }
+  .box_agency{
+    .heading_content{
+      margin-bottom: 100px;
+    }
+    .agency_width{
+      width: 50%;
+      float: left;
+      margin-bottom: 100px;
+      text-align: center;
+    }
+  }
+  .map-icon{
+    margin-bottom: 110px;
+    .box-map-icon{
+      .box-img-icon{
+        img{
+          padding: 0 9px;
+        }
+      }
+    }
+    .box-margin{
+      margin-top: 50px;
+    }
   }
 }
 
@@ -292,9 +327,6 @@
     background: #7e681a !important;
   }
 }
-
-
-
 
 
 

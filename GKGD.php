@@ -78,7 +78,7 @@
             </div>
         </div>
 
-        <div class="content">
+        <div class="content next-box">
             <div class="title dark"><span>Ăn tối gia đình</span></div>
             <div class="bg_white box_content_wrapper">
                 <div class="box_content">
@@ -113,18 +113,74 @@
                     </div>
                     <h2 class="heading_content">Phiếu quà tặng 150 điểm/người:</h2>
                     <p class="content_p">Với phiếu quà tặng liến kết giữa FCV và các đối tác, Quý khách cùng gia đình có thể chọn ăn tại một trong những Nhà hàng sau:</p>
+                    <div class="map-icon text-center">
+                        <div class="box-map-icon">
+                            <p>TPHCM</p>
+                            <div class="box-img-icon">
+                                <img src="assets/images/img/gkgd_gogi.png">
+                                <img src="assets/images/img/gkgd_shabu.png">
+                                <img src="assets/images/img/gkgd_chooki.png">
+                            </div>
+                        </div>
+                        <div class="box-map-icon box-margin">
+                            <p>Hà Nội</p>
+                            <div class="box-img-icon">
+                                <img src="assets/images/img/gkgd_since.png">
+                                <img src="assets/images/img/gkgd_viquang.png">
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="btn btn_gkgd">
-                    <div class="change_point stand"><span>Điểm quy đổi</span></div>
-                    <div class="change_point boid gray"><span>(điểm/người/lần)</span></div>
+                    <div class="change_point"><span>Điểm quy đổi</span></div>
                     <div class="point dark">
-                        <span>650</span>
+                        <span>150</span>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- ?end code page -->
-    </div>
+
+        <div class="content next-box">
+            <div class="title dark"><span>Gọi nhiều hơn, hiểu nhau hơn</span></div>
+            <div class="bg_white box_content_wrapper">
+                <div class="box_content">
+                    <p class="content_p">Từ 150 điểm tích luỹ, Quý khách có thể nhắn tin đổi quà Top-up điện thoại, ngay sao đó, tiền sẽ được chuyển trực tiếp vào tài khoản Quý khách.</p>
+                    <div class="box_agency clearfix">
+                        <h2 class="heading_content">Các nhà mạng đối tác:</h2>
+                        <div class="box_agency_icon">
+                            <div class="agency_width">
+                                <img src="assets/images/img/gkgd_mobifone.png">
+                            </div>
+                            <div class="agency_width">
+                                <img src="assets/images/img/gkgd_vina.png">
+                            </div>
+                            <div class="agency_width">
+                                <img src="assets/images/img/gkgd_vinam.png">
+                            </div>
+                            <div class="agency_width">
+                                <img src="assets/images/img/gkgd_vt.png">
+                            </div>
+                            <div class="agency_width">
+                                <img src="assets/images/img/gkgd_mobile.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box_timeline text-center">
+                        <div class="timeline-section">
+                            <div class="home-content">Mức Top-Up:<strong> 150 điểm = 100.000VNĐ</strong></div>
+                            <div class="home-content">Tối đa/tháng/cửa hàng: <strong>500.000VNĐ</strong></div>
+                        </div>
+                    </div>
+                    <div class="btn btn_gkgd">
+                        <div class="change_point"><span>Điểm quy đổi</span></div>
+                        <div class="point dark text-center">
+                            <span>150</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ?end code page -->
+        </div>
 
 
 <?php include('footer.php'); ?>

@@ -1,0 +1,94 @@
+/*than home new*/
+.slick-dotted {
+  &.slick-slider{
+    margin-bottom: 0;
+  }
+}
+.regular {
+  width: 100%;
+  margin:0 auto;
+  .item_section{
+    padding-top: 0px;
+  }
+  .slick-slide {
+    img{
+      margin: 0;
+      display: inline;
+    }
+  }
+  .slick-dots{
+    bottom: 100px;
+    li{
+      button:before{
+        font-size: 90px;
+        //display: none;
+
+      }
+      &:first-child{
+        background: url("../images/img/icon-home-blue.png");
+      }
+    }
+  }
+  .home-center{
+    text-align: center;
+  }
+  .slider-item{
+
+      .content_section{
+        padding-bottom: 130px;
+        .text-home-content{
+          font-size: 38px;
+          width: 82%;
+          margin: auto;
+          padding-top: 90px;
+          padding-bottom: 80px;
+        }
+        .title-item{
+          font-size: 62px;
+          color: #fff;
+          padding-top: 200px;
+          padding-bottom: 80px;
+        }
+        .btn-content-section{
+          padding-bottom: 130px;
+        }
+      }
+    }
+    .logo{
+      margin-top: 70px;
+      margin-bottom: 40px;
+    }
+    .home-title{
+      color: #018ad2;
+      margin-bottom: 70px;
+    }
+    .top-item{
+      .fcv-canhamanhkhoe{
+        margin-top: 70px;
+      }
+      .content-home{
+        text-align: justify;
+        width: 82%;
+        margin: auto;
+        padding-bottom: 150px;
+        .text-primary{
+          color: #018ad2;
+        }
+      }
+    }
+  .slider-gkgd{
+    background: url("../images/img/bg-gkgd.jpg");
+  }
+  .slider-dtcc{
+    background: url("../images/img/bg-dtcc.jpg");
+  }
+  .slider-cssk{
+    background: url("../images/img/bg-cssk.jpg");
+  }
+  .slider-ctcs{
+    background: url("../images/img/bg-ctcs.jpg");
+
+  }
+}
+
+/*than home new*/

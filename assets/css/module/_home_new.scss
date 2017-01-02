@@ -19,13 +19,59 @@
   .slick-dots{
     bottom: 100px;
     li{
+      width: 30px;
+      margin: 0 10px;
+      button{
+        width: 30px;
+      }
       button:before{
-        font-size: 90px;
-        //display: none;
+        font-size: 25px;
+        opacity: 1;
+        color: white;
+        padding-top: 7px;
+        width: 30px;
+        height: 20px;
 
       }
       &:first-child{
-        //background: url("../images/img/icon-home-blue.png");
+        button{
+          &:before{
+            background: url("../images/img/icon-home.png") no-repeat;
+            content: " ";
+            width: 100%;
+          }
+
+        }
+      }
+      &.slick-active {
+        button{
+          &:before{
+            opacity: .75;
+            color: black;
+          }
+        }
+      }
+    }
+  }
+  .home-item{
+    li{
+      button:before{
+        opacity: 0.25;
+        color: #000000;
+      }
+      &:first-child{
+        button{
+          &:before{
+            background: url("../images/img/icon-home-blue.png") no-repeat;
+          }
+        }
+      }
+      &.slick-active {
+        button{
+          &:before{
+            opacity: 1;
+          }
+        }
       }
     }
   }

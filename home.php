@@ -77,11 +77,27 @@
     </div>
     <script type="text/javascript">
         $(document).on('ready', function() {
+            $('.regular').on('init', function(event, slick, direction, currentSlide){
+                actiDotHome(slick.currentSlide);
+            });
+
+            $('.regular').on('afterChange', function(event, slick, currentSlide, nextSlide){
+                actiDotHome(currentSlide);
+            });
+
             $(".regular").slick({
                 dots: true,
                 arrows: false,
                 infinite: false
             });
+
+            function actiDotHome(x) {
+                if(x == 0){
+                    $('.slick-dots').addClass('home-item');
+                }else{
+                    $('.slick-dots').removeClass('home-item');
+                }
+            }
         });
     </script>
 <?php include('footer.php'); ?>

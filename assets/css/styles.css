@@ -1220,7 +1220,6 @@ strong {
 
 #wrapper {
   width: 1024px;
-  min-height: 1816px;
   margin: 0 auto;
   overflow-x: hidden;
   font-size: 36px; }
@@ -1600,23 +1599,21 @@ strong {
     opacity: 1; }
   .regular .home-center {
     text-align: center; }
-  .regular .slider-item {
-    height: 1795px; }
-    .regular .slider-item .content_section {
+  .regular .slider-item .content_section {
+    padding-bottom: 130px; }
+    .regular .slider-item .content_section .text-home-content {
+      font-size: 38px;
+      width: 82%;
+      margin: auto;
+      padding-top: 90px;
+      padding-bottom: 80px; }
+    .regular .slider-item .content_section .title-item {
+      font-size: 62px;
+      color: #fff;
+      padding-top: 200px;
+      padding-bottom: 80px; }
+    .regular .slider-item .content_section .btn-content-section {
       padding-bottom: 130px; }
-      .regular .slider-item .content_section .text-home-content {
-        font-size: 38px;
-        width: 82%;
-        margin: auto;
-        padding-top: 90px;
-        padding-bottom: 80px; }
-      .regular .slider-item .content_section .title-item {
-        font-size: 62px;
-        color: #fff;
-        padding-top: 200px;
-        padding-bottom: 80px; }
-      .regular .slider-item .content_section .btn-content-section {
-        padding-bottom: 130px; }
   .regular .logo {
     margin-top: 70px;
     margin-bottom: 40px; }
@@ -1633,13 +1630,17 @@ strong {
     .regular .top-item .content-home .text-primary {
       color: #018ad2; }
   .regular .slider-gkgd {
-    background: url("../images/img/bg-gkgd.jpg"); }
+    background: url("../images/img/bg-gkgd.jpg");
+    height: 1795px; }
   .regular .slider-dtcc {
-    background: url("../images/img/bg-dtcc.jpg"); }
+    background: url("../images/img/bg-dtcc.jpg");
+    height: 1795px; }
   .regular .slider-cssk {
-    background: url("../images/img/bg-cssk.jpg"); }
+    background: url("../images/img/bg-cssk.jpg");
+    height: 1795px; }
   .regular .slider-ctcs {
-    background: url("../images/img/bg-ctcs.jpg"); }
+    background: url("../images/img/bg-ctcs.jpg");
+    height: 1795px; }
 
 /*than home new*/
 

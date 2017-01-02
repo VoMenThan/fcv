@@ -21,7 +21,7 @@
                         </div>
                         <p class="text-home-content">Giúp cả gia đình bạn yên tâm sức khỏe mà không phải lo lắng vấn đề tài chính</p>
                         <div class="btn-content-section">
-                            <a href="/fcv/cssk.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
+                            <a href="cssk.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
                         </div>
                         <p class="text-home-content">Đồng hành và hỗ trợ bạn có những khoảnh khoắc tuyệt vời bên cạnh những người bạn yêu thương</p>
                         <div class="btn-content-section">
-                            <a href="/fcv/gkgd.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
+                            <a href="gkgd.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         </div>
                         <p class="text-home-content">Giúp bạn có thể cung cấp cho con cháu mình sự khởi đầu tốt đẹp nhất</p>
                         <div class="btn-content-section">
-                            <a href="/fcv/dtcc.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
+                            <a href="dtcc.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                         </div>
                         <p class="text-home-content">Cùng bạn nâng cao tiện nghi gia đình, thoả sức mua sắm với các phiếu quà tặng có giá trị hấp dẫn</p>
                         <div class="btn-content-section">
-                            <a href="/fcv/ctcs.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
+                            <a href="ctcs.php" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
                         </div>
                     </div>
                 </div>

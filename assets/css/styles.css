@@ -1574,8 +1574,6 @@ strong {
     bottom: 100px; }
     .regular .slick-dots li button:before {
       font-size: 90px; }
-    .regular .slick-dots li:first-child {
-      background: url("../images/img/icon-home-blue.png"); }
   .regular .home-center {
     text-align: center; }
   .regular .slider-item .content_section {

@@ -47,7 +47,7 @@
                     <div class="content_section slider-ctcs">
                         <h1 class="title-item">Cải thiện cuộc sống</h1>
                         <div class="image">
-                            <img src="assets/images/img/ctcs_box.png" alt="">
+                            <img src="assets/images/img/FCV-ctcs-img.png" alt="">
                         </div>
                         <p class="text-home-content">Cùng bạn nâng cao tiện nghi gia đình, thoả sức mua sắm với các phiếu quà tặng có giá trị hấp dẫn</p>
                         <div class="btn-content-section">

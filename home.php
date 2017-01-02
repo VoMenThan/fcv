@@ -13,6 +13,21 @@
             </div>
 
             <div class="slider-item ">
+                <div class="item_section">
+                    <div class="content_section slider-cssk">
+                        <h1 class="title-item">Chăm sóc sức khỏe</h1>
+                        <div class="image">
+                            <img src="assets/images/img/FCV-cssk-img.png" alt="">
+                        </div>
+                        <p class="text-home-content">Giúp cả gia đình bạn yên tâm sức khỏe mà không phải lo lắng vấn đề tài chính</p>
+                        <div class="btn-content-section">
+                            <a href="#" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slider-item ">
                 <div class="item_section ">
                     <div class="content_section slider-gkgd">
                         <h1 class="title-item">Gắn kết gia đình</h1>
@@ -50,20 +65,6 @@
                             <img src="assets/images/img/FCV-ctcs-img.png" alt="">
                         </div>
                         <p class="text-home-content">Cùng bạn nâng cao tiện nghi gia đình, thoả sức mua sắm với các phiếu quà tặng có giá trị hấp dẫn</p>
-                        <div class="btn-content-section">
-                            <a href="#" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slider-item ">
-                <div class="item_section">
-                    <div class="content_section slider-cssk">
-                        <h1 class="title-item">Chăm sóc sức khỏe</h1>
-                        <div class="image">
-                            <img src="assets/images/img/FCV-cssk-img.png" alt="">
-                        </div>
-                        <p class="text-home-content">Giúp cả gia đình bạn yên tâm sức khỏe mà không phải lo lắng vấn đề tài chính</p>
                         <div class="btn-content-section">
                             <a href="#" class="btn-section dark home"><span>Tìm hiểu thêm</span></a>
                         </div>
